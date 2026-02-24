@@ -1,0 +1,7 @@
+ece,50
+abe,20
+del,40
+m,20
+hi,0
+hi,30
+hola,0
